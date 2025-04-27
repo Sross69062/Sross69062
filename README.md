@@ -10,7 +10,7 @@ A dedicated and hardworking professional, I thrive in collaborative environments
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
 - 🔭 I’m currently working on full stack web development.
-- 🌱 I’m currently learning Ruby.
+- 🌱 I’m currently learning about AI.
 - 💬 Ask me about Google Analytics.
 - ⚡ Fun fact: I love all tiers of the stack, it's really about the brain work for me.
 - 📨 Contact me: sross69062@gmail.com
